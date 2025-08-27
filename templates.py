@@ -10,7 +10,7 @@ list_of_files = [
     f'src/{project_name}/components/model trainer.py',
     f'src/{project_name}/utils/__init__.py',
     f'src/{project_name}/utils/common.py',
-    f'src/{project_name}notebooks/__init__.py',
+    f'src/{project_name}/notebooks/__init__.py',
     f'src/{project_name}/notebooks/eda.ipynb',
     f'src/{project_name}/notebooks/model training.ipynb',
     f'src/{project_name}/pipeline/__init__.py',
